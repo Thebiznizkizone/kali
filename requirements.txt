@@ -1,0 +1,14 @@
+# Kali - iPhone Backup Interpreter
+# This tool uses only Python standard library modules
+# No additional packages required
+
+# Python 3.6+ required
+# Standard library modules used:
+# - sqlite3 (for database operations)
+# - plistlib (for property list files)
+# - pathlib (for file path operations)
+# - json (for data export)
+# - hashlib (for file ID generation)
+# - argparse (for command-line interface)
+# - tempfile (for testing)
+# - datetime (for timestamp formatting)
